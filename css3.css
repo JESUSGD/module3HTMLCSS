@@ -1,0 +1,41 @@
+#items #listitem .text-center{
+  font-size: 1.4em;
+}
+*{
+	font-family: 'Fredoka One',cursive;
+	padding: 0;
+	margin: 0;
+}
+#items hr{
+	color: white;
+	margin:0;
+	padding: 0;
+	width: 135%;
+	text-align: center;
+	border-color:white;
+}
+#navbarr{
+	background:  gray;}
+#items #listitem a:hover{
+	background: white;
+	color: black;
+}
+section{
+	border: 2px solid black;
+	background:  gray;
+	margin-bottom: 3%;
+	padding: 0% 3%;
+}
+section h3{
+	color: black;
+	text-decoration: underline;
+}
+h1{
+	color: black;
+	padding: 4% 0 0 0;
+
+}
+
+a{
+  color: black !important;
+}
